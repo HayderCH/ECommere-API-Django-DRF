@@ -7,3 +7,4 @@ db.sqlite3
 .vscode/
 .flake8
 pytest.ini
+schema.yml
